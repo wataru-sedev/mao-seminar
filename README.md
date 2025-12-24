@@ -1,14 +1,18 @@
-# 真央ゼミWebサイト
-C&R大学　真央ゼミのWebサイト用リポジトリです。
-GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
+# 真央ゼミ Web サイト
+
+C&R 大学　真央ゼミの Web サイト用リポジトリです。
+メンバーをお待ちしています！
+GitHub Pages 機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
 
 # メンバー
+
 魔王教授
 エルマス
 わかば
 
 # ディレクトリ構成
+
 ```
 seminar/
 ├─ index.html        # トップページ
@@ -21,4 +25,5 @@ seminar/
 ```
 
 # 備考
-本リポジトリは「わかばちゃんと学ぶGit使い方入門」の練習用として使用するリポジトリです。
+
+本リポジトリは「わかばちゃんと学ぶ Git 使い方入門」の練習用として使用するリポジトリです。
